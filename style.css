@@ -2,7 +2,7 @@ h1{
   background-color: seagreen;
   font-family: 'monospace';
   text-align:center;
-  diplay:flex;
+  display:flex;
   border:5px;
   padding:3px;
 }
